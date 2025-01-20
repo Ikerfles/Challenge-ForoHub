@@ -1,5 +1,5 @@
 # Bienvenido a ForoHub
-ForoAPI es una aplicación que permite a los usuarios crear, listar y gestionar tópicos en un foro virtual. 
+ForoHub es una aplicación que permite a los usuarios crear, listar y gestionar tópicos en un foro virtual. 
 
 ## Caracteristicas
 
