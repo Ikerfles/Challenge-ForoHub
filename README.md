@@ -36,7 +36,7 @@ ForoHub es una aplicación que permite a los usuarios crear, listar y gestionar 
 
 4. Eliminar Tópicos
   - Los usuarios autenticados pueden eliminar tópicos específicos mediante su ID.
-  - Endpoint: DELETE /topics/{id}
+  - Endpoint: DELETE /topico/{id}
   - Seguridad: Se requiere autenticación JWT.
   - Respuesta: Estado HTTP 200 OK tras una eliminación exitosa.
 
